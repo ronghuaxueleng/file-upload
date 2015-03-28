@@ -1,0 +1,67 @@
+.uploadDialog{ 
+	border: 1px solid #d9e4ff;
+	max-width: 600px;
+	min-width: 600px;
+	font-size: 12px;
+	position: absolute;
+    right: 20px !important;
+    bottom: 1px !important;
+}
+.uploadDialogHeader{ 
+	background-color: #2e6da4;
+    height: 40px;
+    padding: 0 15px;
+}
+
+.uploadDialogBody{ 
+	min-height: 300px;
+}
+
+.uploadDialogHeaderTitle{ 
+	color: #fff;
+    font-size: 14px;
+    font-weight: 700;
+	line-height: 35px;
+}
+
+.uploadDialogsignout{ 
+	cursor: pointer;
+    float: right;
+    padding: 10px;
+}
+
+.progressContainer{ 
+	border-bottom: 1px solid #d2d2d2;
+    padding: 1px 10px;
+    line-height: 45px;
+    font-weight: 600;
+}
+
+.progressName{ 
+	width: 300px;
+	overflow: hidden;
+    padding: 0 20px 0 0;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+	font-size: 14px;
+    font-weight: 600;
+	float: left;
+}
+
+.progressBarInProgress{ 
+	border: solid 1px #DDF0DD;
+	background-color: #337ab7;
+	color:#fff;
+	text-align: center;
+	line-height: 10px;
+}
+
+.error {
+	border: solid 1px #B50000;
+	background-color: #FFEBEB;
+}
+
+.progressFileSize { 
+	float: left;
+	width: 100px;
+}
