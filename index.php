@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
-<title>SWFUpload Demos - Simple Demo</title>
+<title>文件上传Demo</title>
 <!--<link href="css/default.css" rel="stylesheet" type="text/css" />-->
 <link href="css/upload.css" rel="stylesheet" type="text/css" />
 <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
@@ -11,7 +11,6 @@
 <script type="text/javascript" src="js/fileprogress.js"></script>
 <script type="text/javascript" src="js/handlers.js"></script>
 <script type="text/javascript">
-
 		window.onload = function() {
 			var settings = {
 				flash_url : "swfupload/swfupload.swf",
@@ -37,7 +36,6 @@
 		<span class="btn">
 			浏览
 		</span>
-
 	</span>
 </div>
 </body>
