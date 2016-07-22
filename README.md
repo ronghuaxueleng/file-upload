@@ -1,2 +1,2 @@
-# file-upload
+# 文件上传
 这个文件上传的插件是以swfupload为基础进行开发的
