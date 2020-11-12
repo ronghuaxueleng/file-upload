@@ -17,7 +17,7 @@
 				flash_url : "swfupload/swfupload.swf",
 				flash9_url : "swfupload/swfupload_fp9.swf",
 				upload_url: "upload.php",
-				post_params: {"PHPSESSID" : "<?php echo session_id(); ?>"},
+				//post_params: {"PHPSESSID" : "<?php echo session_id(); ?>"}, //使用php的时候，打开这个注释
 				file_size_limit : "10000 MB",
 				file_types : "*.*",
 				file_types_description : "All Files",
